@@ -1,0 +1,31 @@
+header{
+    display: flex;
+    background-color: rgb(1, 7, 50);
+    justify-content: center;
+}
+body{
+    background-color: rgb(1, 7, 50);
+}
+p{
+    color: rgb(101, 88, 4);
+    font-size: 2vw; 
+    font-weight: bold;
+}
+h1{
+    color: rgb(255, 255, 255);
+}
+nav{
+    display: flex;
+    justify-content: space-around;
+}
+a{
+    color: rgb(255, 255, 255);
+    font-weight: bold;
+    font-size: 2vw; 
+}
+li{
+    color: rgb(101, 88, 4);
+    font-size: 2vw; 
+    margin: 2vw;
+    font-weight: bold;
+}
